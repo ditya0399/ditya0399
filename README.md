@@ -10,7 +10,6 @@
 
 <img align="left" alt="C" height="30px" src="https://api.iconify.design/logos:c.svg" />
 <img align="left" alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
-<img align="left" alt="Bash" height="30px" src="https://api.iconify.design/logos:bash.svg" />
 <img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:opengl.svg" />
 <img align="left" alt="WebGL" height="30px" src="https://api.iconify.design/simple-icons:webgl.svg" />
 <img align="left" alt="Vim" height="30px" src="https://api.iconify.design/logos:vim.svg" />
